@@ -41,13 +41,3 @@
 
 1. `npm install`
 2. `npm start`
-
-## 6. App演示截图
-
-![Msite首页](./Images/msite.png)
-![Profile个人页](./Images/profile.png)
-![login](./Images/login.png)
-![food](./Images/food.png)
-
-
-
